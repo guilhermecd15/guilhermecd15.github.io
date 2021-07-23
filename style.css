@@ -1,0 +1,22 @@
+    h1{
+      font-family: 'Courier New', Courier, monospace
+    }
+    p{
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    body{
+      background-color: rgb(207, 225, 185);
+    }
+    .destaque{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: 600;
+    }
+    .pro{
+      font-size: 22px;
+    }
+    .lid{
+      font-size: 33px;
+    }
+    .emp{
+      font-size: 44px;
+    }
